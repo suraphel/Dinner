@@ -1,0 +1,19 @@
+{
+  "name": "seachengine",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "buidl": "parcel build index.html"
+  },
+  "author": "Suraphel M",
+  "license": "ISC",
+  "dependencies": {
+    "fractional": "^1.0.0",
+    "parcel": "^2.4.1"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.4.1"
+  }
+}
